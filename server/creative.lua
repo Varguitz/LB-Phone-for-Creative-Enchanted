@@ -1,5 +1,5 @@
 ---By Varguitz for LB-Phone Creative Enchanted
-if Config.Framework ~= "vrpex" then
+if Config.Framework ~= "creative" then
     return
 end
 ------------------------------------------------------------------------------------------------------------------------------------------
