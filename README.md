@@ -2,9 +2,9 @@
 
 Install Instructions: 🇺🇸
 Add this to your fxmanifest.lua in the shared_script section
-  "@vrp/lib/Utils.lua",
+```"@vrp/lib/Utils.lua",
 	"@vrp/config/Vehicle.lua",
-	"@vrp/config/Global.lua"
+	"@vrp/config/Global.lua"```
 
 Add the creative.lua files to the following locations:
 Client:
